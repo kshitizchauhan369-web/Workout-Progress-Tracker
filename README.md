@@ -59,7 +59,7 @@ cd workout-tracker
 2. **Compile the program:**
 ```bash
 g++ -o tracker main.cpp
-```[cite: 1]
+
 
 ```
 
@@ -68,13 +68,12 @@ g++ -o tracker main.cpp
 
 ```bash
     ./tracker
-    ```[cite: 1]
+    ```
 
 ---
-
+```
 ## 📸 Preview
-
-```text
+```
 ==== Workout Progress Tracker ====
 1. Add Workout
 2. View Workouts
@@ -87,7 +86,7 @@ Enter Duration (minutes): 45
 Enter Calories Burned: 350
 
 Workout Added Successfully!
-```[cite: 1]
+```
 
 ---
 
